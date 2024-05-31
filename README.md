@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <a href="https://hits.sh/github.com/michelepiccinno/hits/"><img alt="Hits" src="https://hits.sh/github.com/michelepiccinno/hits.svg"/></a>
 
-###
+
 <h2 align="center">My Skill</h2>
 ###
 
