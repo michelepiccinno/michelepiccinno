@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
+![](https://komarev.com/ghpvc/?username=michelepiccinno&color=green)
 ###
 
 <h2 align="center">My Skill</h2>
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  ![](https://komarev.com/ghpvc/?username=michelepiccinno)
 </div>
 
 ###
