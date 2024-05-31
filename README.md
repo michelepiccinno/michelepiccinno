@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  ![](https://komarev.com/ghpvc/?username=michelepiccinno)
 </div>
-![](https://komarev.com/ghpvc/?username=michelepiccinno)
+
 ###
