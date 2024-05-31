@@ -1,7 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<div align="center">
-<a href="https://hits.sh/github.com/michelepiccinno/hits/"><img alt="Profile views" src="https://hits.sh/github.com/michelepiccinno/hits.svg"/></a>
-</div>
 
 <h2 align="center">My Skill</h2>
 <div align="center">
