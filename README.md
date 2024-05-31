@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-![](https://komarev.com/ghpvc/?michelepiccinno)
+![](https://komarev.com/ghpvc/?username=michelepiccinno)
 ###
 
 <h2 align="center">My Skill</h2>
