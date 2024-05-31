@@ -1,10 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<a href="https://hits.sh/github.com/michelepiccinno/hits/"><img alt="Hits" src="https://hits.sh/github.com/michelepiccinno/hits.svg"/></a>
+<a href="https://hits.sh/github.com/michelepiccinno/hits/"><img alt="Profile views" src="https://hits.sh/github.com/michelepiccinno/hits.svg"/></a>
 
 
 <h2 align="center">My Skill</h2>
 ###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
